@@ -30,11 +30,3 @@ Data input yang digunakan oleh model meliputi:
 - **Kategorikal:** Cuaca (Rainy, Foggy, dll), Level Trafik, Waktu Hari, dan Jenis Kendaraan.
 
 ---
-
-## 🚀 Cara Menjalankan secara Lokal
-
-### 1. Persiapan Environment
-Pastikan Anda memiliki Python 3.9+ installed. Sangat disarankan menggunakan virtual environment.
-```bash
-python -m venv env
-source env/bin/activate  # Windows: env\Scripts\activate
